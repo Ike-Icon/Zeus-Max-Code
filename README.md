@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zeus-Max-Code
 - 👀 I’m interested in coding and going on an adventure.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything thaI can learn from.
+- 💞️ I’m looking to collaborate on anything that I can learn from.
 - 📫 How to reach me by e-mail: hazardos10@gmail.com
 
 <!---
